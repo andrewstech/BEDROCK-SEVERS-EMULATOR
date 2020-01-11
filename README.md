@@ -1,5 +1,5 @@
 This is an easy sever launcher based on phantom by jhead.
-This file acts as a quick launch for phantom severs
+This file allows PS4 and Xbox one players to access custom Minecraft bedrock severs.
 
 Download the software here: http://download.andrewstech.me/bedrock
 
